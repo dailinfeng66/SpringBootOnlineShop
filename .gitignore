@@ -6,5 +6,4 @@ mvnw
 .gitignore
 .mvn/
 mvnw.cmd
-pom.xml
-src/
+
